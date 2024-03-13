@@ -1,0 +1,14 @@
+C:\Users\adria\projetobaltabloco\bin\Debug\net8.0\projetobaltabloco.exe
+C:\Users\adria\projetobaltabloco\bin\Debug\net8.0\projetobaltabloco.deps.json
+C:\Users\adria\projetobaltabloco\bin\Debug\net8.0\projetobaltabloco.runtimeconfig.json
+C:\Users\adria\projetobaltabloco\bin\Debug\net8.0\projetobaltabloco.dll
+C:\Users\adria\projetobaltabloco\bin\Debug\net8.0\projetobaltabloco.pdb
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.AssemblyInfoInputs.cache
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.AssemblyInfo.cs
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.csproj.CoreCompileInputs.cache
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.dll
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\refint\projetobaltabloco.dll
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.pdb
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\projetobaltabloco.genruntimeconfig.cache
+C:\Users\adria\projetobaltabloco\obj\Debug\net8.0\ref\projetobaltabloco.dll
